@@ -8,4 +8,6 @@ Neste projeto foi desenvolvido um clone da página de vídeo do youtube com HTML
 
 ## Resultado final:
 
+[Link do Deploy](https://paulohmoreira.github.io/clone-youtube/)
+
 ![image](assets/images/clone-youtube.png)
